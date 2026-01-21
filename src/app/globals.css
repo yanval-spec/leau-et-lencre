@@ -1,0 +1,17 @@
+@import "tailwindcss";
+
+@theme inline {
+  --color-paper: #F9F7F2;
+  --color-cherry: #D93025;
+  --color-horizon: #5C9ACF;
+  --color-twilight: #EBC04B;
+
+  --font-serif: var(--font-serif);
+  --font-handwritten: var(--font-handwritten);
+  --font-sans: var(--font-sans);
+}
+
+body {
+  background-color: var(--color-paper);
+  color: #1a1a1a;
+}

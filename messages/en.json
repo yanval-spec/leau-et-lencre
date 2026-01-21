@@ -1,0 +1,23 @@
+{
+    "Navbar": {
+        "home": "Home",
+        "portfolio": "Portfolio",
+        "about": "About",
+        "contact": "Contact"
+    },
+    "Home": {
+        "title": "L'Eau et l'Encre",
+        "subtitle": "Portfolio under construction..."
+    },
+    "About": {
+        "title": "About the Artist",
+        "intro": "L'Eau et l'Encre is a creative studio where watercolor meets ink, creating dreamlike illustrations inspired by nature and imagination.",
+        "technique": "Each piece is carefully crafted using traditional techniques, combining the fluidity of watercolor with the precision of ink."
+    },
+    "Contact": {
+        "title": "Get in Touch",
+        "intro": "For commissions, collaborations, or inquiries, feel free to reach out.",
+        "email": "Email",
+        "social": "Follow on Social Media"
+    }
+}

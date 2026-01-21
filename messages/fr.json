@@ -1,0 +1,23 @@
+{
+    "Navbar": {
+        "home": "Accueil",
+        "portfolio": "Portfolio",
+        "about": "À propos",
+        "contact": "Contact"
+    },
+    "Home": {
+        "title": "L'Eau et l'Encre",
+        "subtitle": "Portfolio en construction..."
+    },
+    "About": {
+        "title": "À propos de l'artiste",
+        "intro": "L'Eau et l'Encre est un atelier créatif où l'aquarelle rencontre l'encre, créant des illustrations oniriques inspirées par la nature et l'imagination.",
+        "technique": "Chaque pièce est soigneusement réalisée avec des techniques traditionnelles, alliant la fluidité de l'aquarelle à la précision de l'encre."
+    },
+    "Contact": {
+        "title": "Me contacter",
+        "intro": "Pour des commandes, collaborations ou demandes, n'hésitez pas à me contacter.",
+        "email": "Email",
+        "social": "Suivez-moi sur les réseaux"
+    }
+}

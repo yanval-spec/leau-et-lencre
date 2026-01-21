@@ -1,0 +1,68 @@
+﻿
+> temporal-star@0.1.0 build
+> next build
+
+node.exe : Ô¿» Failed 
+to load 
+next.config.ts, see 
+more info here https:/
+/nextjs.org/docs/messa
+ges/next-config-error
+Au caractère Ligne:1 
+: 1
++ & "C:\Program Files\
+nodejs/node.exe" 
+"C:\Program 
+Files\nodejs/node_mo 
+...
++ ~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~
+~~~~~
+    + CategoryInfo    
+          : NotSpeci  
+  fied: (Ô¿» Failed   
+  to l...xt-config    
+-error:String) []    
+, RemoteException
+    + FullyQualifiedE 
+   rrorId : NativeCo  
+  mmandError
+ 
+
+> Build error occurred
+Error: 
+[next-intl] Could not 
+locate request 
+configuration module.
+
+This path is 
+supported by default: 
+./(src/)i18n/request.{
+js,jsx,ts,tsx}
+
+Alternatively, you 
+can specify a custom 
+location in your 
+Next.js config:
+
+const withNextIntl = 
+createNextIntlPlugin(
+
+Alternatively, you 
+can specify a custom 
+location in your 
+Next.js config:
+
+const withNextIntl = 
+createNextIntlPlugin(
+  './path/to/i18n/requ
+est.tsx'
+);
+
+    at 
+Object.<anonymous> (C:
+\Users\yannv\.gemini\a
+ntigravity\playground\
+temporal-star\next.con
+fig.compiled.js:23:18)

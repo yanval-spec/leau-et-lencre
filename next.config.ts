@@ -6,9 +6,7 @@ const withNextIntl = createNextIntlPlugin(
 );
 
 const nextConfig: NextConfig = {
-  experimental: {
-    typedRoutes: false
-  }
+  typedRoutes: false
 };
 
 export default withNextIntl(nextConfig);

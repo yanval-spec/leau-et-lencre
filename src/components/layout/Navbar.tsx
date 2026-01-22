@@ -31,7 +31,7 @@ export default function Navbar({ locale }: { locale: string }) {
                 <div className="flex justify-between items-center h-20">
                     {/* Logo */}
                     <Link href="/" className="font-serif text-2xl tracking-wider text-cherry">
-                        L'Eau et l'Encre
+                        L&apos;Eau et l&apos;Encre
                     </Link>
 
                     {/* Desktop Menu */}

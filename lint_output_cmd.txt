@@ -1,0 +1,20 @@
+
+> temporal-star@0.1.0 lint
+> eslint
+
+
+C:\Users\yannv\.gemini\antigravity\playground\temporal-star\scripts\convert-hq-images.js
+  1:15  error  A `require()` style import is forbidden  @typescript-eslint/no-require-imports
+  2:12  error  A `require()` style import is forbidden  @typescript-eslint/no-require-imports
+  3:14  error  A `require()` style import is forbidden  @typescript-eslint/no-require-imports
+
+C:\Users\yannv\.gemini\antigravity\playground\temporal-star\src\components\layout\Footer.tsx
+  7:37  error  `'` can be escaped with `&apos;`, `&lsquo;`, `&#39;`, `&rsquo;`  react/no-unescaped-entities
+  7:46  error  `'` can be escaped with `&apos;`, `&lsquo;`, `&#39;`, `&rsquo;`  react/no-unescaped-entities
+
+C:\Users\yannv\.gemini\antigravity\playground\temporal-star\src\components\layout\Navbar.tsx
+  34:26  error  `'` can be escaped with `&apos;`, `&lsquo;`, `&#39;`, `&rsquo;`  react/no-unescaped-entities
+  34:35  error  `'` can be escaped with `&apos;`, `&lsquo;`, `&#39;`, `&rsquo;`  react/no-unescaped-entities
+
+✖ 7 problems (7 errors, 0 warnings)
+
